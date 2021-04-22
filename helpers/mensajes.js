@@ -10,7 +10,7 @@ const monstrarMenu = () => {
         console.clear();
         console.log('=========================='.green);
         console.log('   Selecccion una opción'.green);
-        console.log('==========================\n'.green)
+        console.log('==========================\n'.green);
 
         console.log(`${ '1.'.green} Crear tarea`);
         console.log(`${ '2.'.green} Listar tarea`);
